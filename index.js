@@ -19,5 +19,3 @@ let element = document.createElement('div');
  var newHeader = document.createElement('h1');
 
  var newHeader = document.createElement('victory');
- 
- 
