@@ -16,4 +16,6 @@ let element = document.createElement('div');
  var el = document.getElementById('main')
  el.remove();
 
- var newHeader = document.createElement('h1#victory'["YOUR-NAME is the champion"]);
+ var newHeader = document.createElement('h1');
+
+ 
