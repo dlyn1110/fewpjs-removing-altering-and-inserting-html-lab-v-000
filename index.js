@@ -17,4 +17,4 @@ let element = document.createElement('div');
  el.remove();
 
  var newHeader = document.createElement('h1#victory'["YOUR-NAME is the champion"]);
- newHeader();
+
