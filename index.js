@@ -7,4 +7,4 @@
 
  const newHeader = document.createElement('h1');
  newHeader.id = 'victory';
- newHeader.innerHTML = "I am the champion";
+ newHeader.innerHTML = "Danielle is the champion";
