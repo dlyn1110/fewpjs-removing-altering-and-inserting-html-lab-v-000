@@ -16,4 +16,4 @@ let element = document.createElement('div');
  var el = document.getElementById('main')
  el.remove();
 
- var newHeader = document.createElement('h1');
+ const newHeader = document.createElement('h1');
